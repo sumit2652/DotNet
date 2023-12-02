@@ -4,30 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a number!");
-            string userInput = Console.ReadLine();
+            int num1 = 5;
+            int num2 = 3;
+            int num3;
 
-            try
-            {
-                int userInputAsInt = int.Parse(userInput);
-            }
-            catch(FormatException)
-            {
-                Console.WriteLine("Please enter number not letter or specical carracters");
-            }
-            catch(OverflowException)
-            {
-                Console.WriteLine("Overflow expection for int32");
-            }
-            catch (ArgumentNullException)
-            {
-                Console.WriteLine("ArgumentNullException,The value was empty");
-            }
-            finally
-            {
-                Console.WriteLine("This is finally called anyways!>>>");
-            }
-            Console.ReadKey();
+            num3 = -num1;
+
+            bool isSunny = true;
+            Console.WriteLine("is it sunny? {0}", isSunny);
+
+            Console.WriteLine("num3 is {0},", num3);
+            Console.ReadLine();
         }
     }
 }
