@@ -15,6 +15,14 @@
 
             Console.WriteLine("num3 is {0},", num3);
             Console.ReadLine();
+
+            //increament in operators
+
+            int num = 0;
+            num++;
+            Console.WriteLine("num is {0}", num++);
+            Console.WriteLine("num is {0}", num++);
+            Console.WriteLine("num is {0}", num++);
         }
     }
 }
