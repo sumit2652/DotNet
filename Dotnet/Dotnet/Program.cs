@@ -27,6 +27,10 @@
             bool isLower;
             isLower = num1 < num2;
             Console.WriteLine("result of num1 < num2 is {0} ", isLower);
+   
+            bool isEqaul;
+            isEqaul = num1 == num2;
+            Console.WriteLine("if results are equal {0}", isEqaul);
             Console.ReadLine();
         }
     }
