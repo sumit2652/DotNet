@@ -11,9 +11,13 @@
             {
                 int userInputAsInt = int.Parse(userInput);
             }
-            catch(Exception)
+            catch(FormatException)
             {
-                Console.WriteLine("Please enter number not letter or specical carracters"); ;
+                Console.WriteLine("Please enter number not letter or specical carracters");
+            }
+            catch(OverflowException)
+            {
+                Console.WriteLine("Overflow expectionm");
             }
             Console.ReadKey();
         }
