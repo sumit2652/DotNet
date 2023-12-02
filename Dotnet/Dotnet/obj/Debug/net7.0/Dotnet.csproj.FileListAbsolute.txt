@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\bin\Debug\net7.0\Dotnet.exe
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\bin\Debug\net7.0\Dotnet.deps.json
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\bin\Debug\net7.0\Dotnet.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\bin\Debug\net7.0\Dotnet.dll
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\bin\Debug\net7.0\Dotnet.pdb
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.dll
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\refint\Dotnet.dll
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.pdb
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\Dotnet.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\Dotnet\Dotnet\obj\Debug\net7.0\ref\Dotnet.dll
