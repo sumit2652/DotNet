@@ -14,7 +14,7 @@
             Console.WriteLine("is it sunny? {0}", isSunny);
 
             Console.WriteLine("num3 is {0},", num3);
-            Console.ReadLine();
+            
 
             //increament in operators
 
@@ -23,6 +23,11 @@
             Console.WriteLine("num is {0}", num++);
             Console.WriteLine("num is {0}", num++);
             Console.WriteLine("num is {0}", num++);
+
+            bool isLower;
+            isLower = num1 < num2;
+            Console.WriteLine("result of num1 < num2 is {0} ", isLower);
+            Console.ReadLine();
         }
     }
 }
