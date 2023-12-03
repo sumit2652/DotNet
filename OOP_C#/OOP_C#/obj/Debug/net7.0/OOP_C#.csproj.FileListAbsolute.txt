@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\bin\Debug\net7.0\OOP_C#.exe
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\bin\Debug\net7.0\OOP_C#.deps.json
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\bin\Debug\net7.0\OOP_C#.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\bin\Debug\net7.0\OOP_C#.dll
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\bin\Debug\net7.0\OOP_C#.pdb
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.dll
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\refint\OOP_C#.dll
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.pdb
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\OOP_C#.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\OOP_C#\OOP_C#\obj\Debug\net7.0\ref\OOP_C#.dll
