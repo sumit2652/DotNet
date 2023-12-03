@@ -21,6 +21,15 @@
                     }
                 }
             }
+
+            // anthor way of nested conditions
+
+            if (isRegistred && userName != "" && userName.Equals("admin"))
+            {
+                Console.WriteLine("Hi there, registred user");
+                Console.WriteLine("Hi there," + userName);
+                Console.WriteLine("Hi There admin");
+            }
         }
     }
 }
