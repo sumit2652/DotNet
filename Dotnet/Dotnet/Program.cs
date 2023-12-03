@@ -15,7 +15,6 @@
 
             Console.WriteLine("num3 is {0},", num3);
             
-
             //increament in operators
 
             int num = 0;
@@ -27,10 +26,14 @@
             bool isLower;
             isLower = num1 < num2;
             Console.WriteLine("result of num1 < num2 is {0} ", isLower);
-   
+  
             bool isEqaul;
             isEqaul = num1 == num2;
             Console.WriteLine("if results are equal {0}", isEqaul);
+         
+            bool notEqaul;
+            notEqaul = num1 != num2;
+            Console.WriteLine("if results are not equal {0}", notEqaul);
             Console.ReadLine();
         }
     }
