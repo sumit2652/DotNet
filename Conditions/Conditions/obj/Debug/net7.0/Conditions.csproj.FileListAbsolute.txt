@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\bin\Debug\net7.0\Conditions.exe
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\bin\Debug\net7.0\Conditions.deps.json
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\bin\Debug\net7.0\Conditions.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\bin\Debug\net7.0\Conditions.dll
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\bin\Debug\net7.0\Conditions.pdb
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.dll
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\refint\Conditions.dll
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.pdb
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\Conditions.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\Conditions\Conditions\obj\Debug\net7.0\ref\Conditions.dll
