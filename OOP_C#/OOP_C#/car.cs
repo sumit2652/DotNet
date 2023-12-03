@@ -4,24 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace OOP_C_
 {
     internal class car
     {
-        public car() 
-        { 
-            Console.WriteLine("Car was created"); 
+        private string _name;
+ 
+        public car(string name) 
+        {
+            _name = name;
+            Console.WriteLine(name + "Car was created"); 
         }
 
         public void Drive ()
         {
-            Console.WriteLine("Car is driving");
+            Console.WriteLine(_name + "Car is driving");
         }
 
         public void Stop()
         {
-            Console.WriteLine("Car is stopped");
+            Console.WriteLine(_name + "Car is stopped");
         }
 
 
