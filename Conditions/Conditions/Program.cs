@@ -17,6 +17,7 @@ namespace Conditions
             else
             {
                 number = 0;
+                Console.WriteLine("Value entered, was no number or it was a text. 0 set as a temprtaure by default");
             }
 
             if(numTem < 18)
