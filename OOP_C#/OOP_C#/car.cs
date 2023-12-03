@@ -34,9 +34,9 @@ namespace OOP_C_
         }
         public void Details()
         {
-            Console.WriteLine(" The " + _colour + " car " + _name + " has "+ _hp + " hp ");
+            Console.WriteLine($"The {_colour} car {_name} has {_hp} hp");
         }
-     
+
 
     }
 }
