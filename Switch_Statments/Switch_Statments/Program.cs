@@ -1,33 +1,43 @@
-﻿namespace Switch_Statments
+﻿using System;
+
+namespace Switch_Statements
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int age = 15;
+            int age;
+            bool isValidInput = false;
 
-            switch(age)
+            do
+            {
+                Console.WriteLine("What is your age?");
+                string ageString = Console.ReadLine();
+
+                if (int.TryParse(ageString, out age))
+                {
+                    isValidInput = true; // Break out of the loop if the input is valid
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid age as a number.");
+                }
+
+            } while (!isValidInput);
+
+            switch (age)
             {
                 case 15:
-                    Console.WriteLine("Too young for party in the club");
+                    Console.WriteLine("Too young for a party in the club");
                     break;
                 case 25:
-                    Console.WriteLine("you can join club");
+                    Console.WriteLine("You can join the club");
                     break;
-                default: Console.WriteLine("How old are you?");
+                default:
+                    Console.WriteLine("You are neither 15 nor 25. How old are you?");
                     break;
             }
 
-            if (age == 15)
-            {
-                Console.WriteLine("Too young for party");
-            }
-            else if (age == 25)
-            {
-                Console.WriteLine("You can join cloub");
-            }
-            else { Console.WriteLine("What is your age");
-            }
             Console.Read();
         }
     }
