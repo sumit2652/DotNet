@@ -14,10 +14,10 @@ namespace Conditions
             {
                 Console.WriteLine("take a jacket, it is below 20 dgree");
             }
-            if(numTem > 18) {
+            else if(numTem > 18) {
                 Console.WriteLine("Take a jumper");
             }
-            if (numTem == 18)
+            else if (numTem == 18)
             {
                 Console.WriteLine("It is hot go for bike");
             }
