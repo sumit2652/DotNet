@@ -6,10 +6,12 @@ namespace OOP_C_
     {
         static void Main(string[] args)
         {
-            car audi = new car("Audo A7");
+            car audi = new car("Audi A7", 250, "Red");
             audi.Drive();
-            car bmw = new car("Bmw M5");
+            audi.Details();
+            car bmw = new car("Bmw M5" , 350 );
             bmw.Drive();
+            bmw.Details();
 
             Console.WriteLine("Press 2 to stop the car");
             string userInput = Console.ReadLine();
@@ -21,8 +23,9 @@ namespace OOP_C_
             }
             else
             {
-                Console.WriteLine("Car will drive indefinetely");
+                Console.WriteLine($"{audi} and {bmw} will drive indefinitely.");
             }
         }
+     
     }
 }
