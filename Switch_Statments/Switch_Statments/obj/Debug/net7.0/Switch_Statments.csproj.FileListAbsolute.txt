@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\bin\Debug\net7.0\Switch_Statments.exe
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\bin\Debug\net7.0\Switch_Statments.deps.json
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\bin\Debug\net7.0\Switch_Statments.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\bin\Debug\net7.0\Switch_Statments.dll
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\bin\Debug\net7.0\Switch_Statments.pdb
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.dll
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\refint\Switch_Statments.dll
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.pdb
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\Switch_Statments.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\Switch_Statments\Switch_Statments\obj\Debug\net7.0\ref\Switch_Statments.dll

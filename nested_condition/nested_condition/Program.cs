@@ -30,6 +30,11 @@
                 Console.WriteLine("Hi there," + userName);
                 Console.WriteLine("Hi There admin");
             }
+            if (admin || isRegistred)
+            {
+                Console.WriteLine("You are looged in");
+            }
+            Console.ReadLine();
         }
     }
 }
