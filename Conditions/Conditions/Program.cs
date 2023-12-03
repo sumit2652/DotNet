@@ -10,9 +10,10 @@ namespace Conditions
             string temp = Console.ReadLine();
             int numTem;
             int number;
-            if(int.TryParse(temp, out numTem))
+            bool userEnteredANumber = int.TryParse(temp, out number);
+            if(userEnteredANumber)
             {
-                number = numTem;
+                numTem = number;
             }
             else
             {
@@ -20,14 +21,14 @@ namespace Conditions
                 Console.WriteLine("Value entered, was no number or it was a text. 0 set as a temprtaure by default");
             }
 
-            if(numTem < 18)
+            if(number < 18)
             {
                 Console.WriteLine("take a jacket, it is below 20 dgree");
             }
-            else if(numTem > 18) {
+            else if(number > 18) {
                 Console.WriteLine("Take a jumper");
             }
-            else if (numTem == 18)
+            else if (number == 18)
             {
                 Console.WriteLine("It is hot go for bike");
             }

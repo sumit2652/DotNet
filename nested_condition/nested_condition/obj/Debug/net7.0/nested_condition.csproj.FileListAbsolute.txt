@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\bin\Debug\net7.0\nested_condition.exe
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\bin\Debug\net7.0\nested_condition.deps.json
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\bin\Debug\net7.0\nested_condition.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\bin\Debug\net7.0\nested_condition.dll
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\bin\Debug\net7.0\nested_condition.pdb
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.dll
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\refint\nested_condition.dll
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.pdb
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\nested_condition.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\nested_condition\nested_condition\obj\Debug\net7.0\ref\nested_condition.dll
