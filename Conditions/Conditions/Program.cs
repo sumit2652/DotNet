@@ -8,7 +8,16 @@ namespace Conditions
         {
             Console.WriteLine("What is the temprature like?");
             string temp = Console.ReadLine();
-            int numTem = int.Parse(temp);
+            int numTem;
+            int number;
+            if(int.TryParse(temp, out numTem))
+            {
+                number = numTem;
+            }
+            else
+            {
+                number = 0;
+            }
 
             if(numTem < 18)
             {
