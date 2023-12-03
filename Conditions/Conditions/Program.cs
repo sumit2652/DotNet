@@ -6,7 +6,7 @@ namespace Conditions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter temprature");
+            Console.WriteLine("What is the temprature like?");
             string temp = Console.ReadLine();
             int numTem = int.Parse(temp);
 
