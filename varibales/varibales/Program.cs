@@ -15,7 +15,9 @@
 
             int age = 40;
             string myName2 = "Tofu";
-            Console.WriteLine("Hello my name is "+ myName2+ " "+ "my age is " + age);
+            //Console.WriteLine("Hello my name is "+ myName2+ " "+ "my age is " + age);
+            Console.WriteLine("String formatting");
+            Console.WriteLine("Hello my name is {0}, I am {1} year old ",myName2, age);
             Console.ReadLine();
         }
     }
