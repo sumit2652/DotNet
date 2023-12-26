@@ -9,10 +9,10 @@
 
             Console.WriteLine(num1*num2);
 
-            string myName = "Danies";
+            string myName = "danies";
             string message = "My name is"+ " " + myName;
-            message.ToUpper();
-            Console.WriteLine(message);
+            string capMessage = message.ToUpper();
+            Console.WriteLine(capMessage);
         }
     }
 }
