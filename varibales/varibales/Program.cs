@@ -12,6 +12,10 @@
             string message = "My name is"+ " " + myName;
             string capMessage = message.ToUpper();
             Console.WriteLine(capMessage);
+
+            int age = 40;
+            string myName2 = "Tofu";
+            Console.WriteLine("Hello my name is "+ myName2+ " "+ "my age is " + age);
             Console.ReadLine();
         }
     }
