@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\bin\Debug\net7.0\internetConnetcion.exe
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\bin\Debug\net7.0\internetConnetcion.deps.json
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\bin\Debug\net7.0\internetConnetcion.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\bin\Debug\net7.0\internetConnetcion.dll
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\bin\Debug\net7.0\internetConnetcion.pdb
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.dll
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\refint\internetConnetcion.dll
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.pdb
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\internetConnetcion.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\internetConnetcion\internetConnetcion\obj\Debug\net7.0\ref\internetConnetcion.dll
