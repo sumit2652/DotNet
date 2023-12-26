@@ -1,0 +1,14 @@
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\bin\Debug\net7.0\varibales.exe
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\bin\Debug\net7.0\varibales.deps.json
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\bin\Debug\net7.0\varibales.runtimeconfig.json
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\bin\Debug\net7.0\varibales.dll
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\bin\Debug\net7.0\varibales.pdb
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.AssemblyInfoInputs.cache
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.AssemblyInfo.cs
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.csproj.CoreCompileInputs.cache
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.dll
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\refint\varibales.dll
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.pdb
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\varibales.genruntimeconfig.cache
+C:\Users\sumsi\source\repos\DotNet\varibales\varibales\obj\Debug\net7.0\ref\varibales.dll
